@@ -97,6 +97,29 @@ Once that is handle we will go into C:\inetpub\wwwroot\osTicket\include rename f
 
 ![image](https://user-images.githubusercontent.com/130851140/235489185-33098c23-9378-4eb7-93d6-f3ab3c5c7575.png)
 
+Continue in the browser you have osTicket Installer in and hit continue and put in you helpdesk name and email (To recieve customer request)
+
+![image](https://user-images.githubusercontent.com/130851140/235514477-5e031057-4861-4aeb-96fe-a317f9524161.png)
+
+Now we will download the last file and that is heidiSQL and create a new session username and password
+
+![image](https://user-images.githubusercontent.com/130851140/235515097-edbfe0f0-7971-412f-a808-5478c0d6b180.png)
+
+![image](https://user-images.githubusercontent.com/130851140/235524482-376238f2-97e0-464d-9baf-4413692157a5.png)
+
+Create a new database and name it osTicket then complete the rest of the setup in osTicket Installer
+
+![image](https://user-images.githubusercontent.com/130851140/235524836-1506b877-badd-4943-8ded-0170052d7a89.png)
+
+![image](https://user-images.githubusercontent.com/130851140/235525599-0fb82959-fc78-4d78-8b72-8a6e846b270a.png)
+
+once you've completed filing out all the information you are ready to start osTicket 
+
+![image](https://user-images.githubusercontent.com/130851140/235525813-e0a26169-4a4d-4231-a351-225120496797.png)
+
+
+
+
 
 
 
