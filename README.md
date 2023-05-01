@@ -51,15 +51,19 @@ Once you are in your Virtual Machine(VM) we will make sure to enable/install IIS
  ![image](https://user-images.githubusercontent.com/130851140/235475115-6bfe47da-40d7-4132-aff8-40fdc1e79b00.png)
  
  
- Here we will install MySQL
+ Here we will install MySQL as typical setup and from there we will choose standard configuration
  
  ![image](https://user-images.githubusercontent.com/130851140/235475964-f5ea9b4d-3fbd-4065-a721-ab6c32ea47cb.png)
  
- Within this download you will create your password to use when setting up osTicket.
+ You will then create your password and complete the download shown below.
  ![image](https://user-images.githubusercontent.com/130851140/235476390-0038276d-ee41-4710-b20f-c7e253912207.png)
 
+ On our Virtual Machine we will open up IIS as admin and register PHP within IIS
  
- 
+ ![image](https://user-images.githubusercontent.com/130851140/235479141-526927fb-382a-4604-9934-fcbc6186a9e7.png)
+
+ ![image](https://user-images.githubusercontent.com/130851140/235479229-f0cf35d1-2315-47f1-94ba-c5efb7b51c97.png)
+
 
 
 
