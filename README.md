@@ -31,7 +31,7 @@ To begin we will open up the Azure Virtual Machine through remote desktop connec
 
 
 
-Once you are in your Virtual Machine(VM) we will make sure to enable/install IIS with CGI. After that we will move on to installing PHP Manager for IIS(https://drive.google.com/file/d/1RHsNd4eWIOwaNpj3JW4vzzmzNUH86wY_/view) and Rewrite Module(https://drive.google.com/file/d/1tIK9GZBKj1JyUP87eewxgdNqn9pZmVmY/view). 
+Once you are in your Virtual Machine(VM) we will make sure to enable/install IIS with CGI. After that we will move on to installing PHP Manager for IIS and Rewrite Module. 
 
 ![image](https://user-images.githubusercontent.com/130851140/234135236-8e3b141b-cb27-448f-bc3c-74d7a9faea6d.png)
 
@@ -43,6 +43,24 @@ Once you are in your Virtual Machine(VM) we will make sure to enable/install IIS
  When those files are completely downloaded we will need to create a directory called PHP(C:\PHP) for the files we will begin to download.
  
  ![image](https://user-images.githubusercontent.com/130851140/234137531-3d0fe4b1-d18c-423b-a9fa-be7c1b14d478.png)
+ 
+ 
+ Next step we will begin to download the VC redist file.
+ 
+ 
+ ![image](https://user-images.githubusercontent.com/130851140/235475115-6bfe47da-40d7-4132-aff8-40fdc1e79b00.png)
+ 
+ 
+ Here we will install MySQL
+ 
+ ![image](https://user-images.githubusercontent.com/130851140/235475964-f5ea9b4d-3fbd-4065-a721-ab6c32ea47cb.png)
+ 
+ Within this download you will create your password to use when setting up osTicket.
+ ![image](https://user-images.githubusercontent.com/130851140/235476390-0038276d-ee41-4710-b20f-c7e253912207.png)
+
+ 
+ 
+
 
 
 
